@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="studentName" type="id">StudentName</item>
+    <item name="studentRegistrationNumber" type="id">Int</item>
+    <item name="studentPhoneNumberItem" type="id">Int</item>
+</resources>
